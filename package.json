@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@ethersproject/constants": "^5.7.0"
+  }
+}
